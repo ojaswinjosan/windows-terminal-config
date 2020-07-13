@@ -42,7 +42,7 @@
                 // Make changes here to the powershell.exe profile.
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "name": "Windows PowerShell",
-                "commandline": "powershell.exe -NoExit -ExecutionPolicy Bypass -File \"C:\\Users\\oj\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\Microsoft.PowerShell_profile.ps1\"",
+                "commandline": "powershell.exe -NoLogo -NoExit -ExecutionPolicy Bypass -File \"C:\\Users\\oj\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\Microsoft.PowerShell_profile.ps1\"",
                 "hidden": false
             },
             {
